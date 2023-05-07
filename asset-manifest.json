@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdhavalm.github.io/static/css/main.be59db70.css",
+    "main.js": "/pdhavalm.github.io/static/js/main.f2989db2.js",
+    "index.html": "/pdhavalm.github.io/index.html",
+    "main.be59db70.css.map": "/pdhavalm.github.io/static/css/main.be59db70.css.map",
+    "main.f2989db2.js.map": "/pdhavalm.github.io/static/js/main.f2989db2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be59db70.css",
+    "static/js/main.f2989db2.js"
+  ]
+}
